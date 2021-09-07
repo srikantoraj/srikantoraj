@@ -1,5 +1,5 @@
 ### Hi there, I'm Srikanto !!!
-[![Website](https://srikanto.me)](https://srikanto.me)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://srikanto.me)
 
 ## I'm a Programmer, Entrepreneur, Developer, and Teacher!!
 
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left"  width="22px" alt ='srikanto.me|srikanto' src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
