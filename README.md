@@ -1,7 +1,7 @@
 ### Hi there, I'm Srikanto !!!
 [![Website](https://img.shields.io/website?label=Srikanto&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://srikanto.me)
 
-## I'm a Programmer, Entrepreneur, Developer, and Teacher!!
+## I'm a Programmer, Entrepreneur & Tech Enthusiast!!
 
 - 🌱 I’m currently learning web development stuff
 - 👯 I’m looking to collaborate with other content creators
