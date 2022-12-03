@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning web development stuff
 - 👯 I’m looking to collaborate with other Web developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read self help books and I enjoy travelling so much
 
 ### Connect with me:
