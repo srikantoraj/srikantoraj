@@ -1,5 +1,5 @@
 ### Hi there, I'm Srikanto !!!
-[![Website](https://img.shields.io/website?label=Srikanto&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://srikanto.me)
+[![Website](https://img.shields.io/website?label=Srikanto&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://wisebrain.io)
 
 ## I'm a Programmer, Entrepreneur & Tech Enthusiast!!
 
