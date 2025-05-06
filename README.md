@@ -4,9 +4,8 @@
 ## I'm a Programmer, Entrepreneur & Tech Enthusiast!!
 
 - 🌱 Software developer
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read self help books and I enjoy travelling so much
+- 🥅 2025 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
