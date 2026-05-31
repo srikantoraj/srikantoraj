@@ -1,123 +1,149 @@
 # Hi there, I'm Srikanto Rajbongshi 👋
 
-[![Website](https://img.shields.io/website?label=srikanto.dev&style=for-the-badge&url=https%3A%2F%2Fsrikanto.dev)](https://srikanto.dev)
-[![Website](https://img.shields.io/website?label=wisebrain.io&style=for-the-badge&url=https%3A%2F%2Fwisebrain.io)](https://wisebrain.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srikanto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/srikanto/)
-[![Email](https://img.shields.io/badge/Email-contact%40srikanto.dev-informational?style=for-the-badge&logo=gmail)](mailto:contact@srikanto.dev)
+[![Website](https://img.shields.io/website?label=srikanto.dev\&style=for-the-badge\&url=https%3A%2F%2Fsrikanto.dev)](https://srikanto.dev)
+[![Company](https://img.shields.io/website?label=wisebrain.io\&style=for-the-badge\&url=https%3A%2F%2Fwisebrain.io)](https://wisebrain.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srikanto-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/srikanto/)
+[![GitHub](https://img.shields.io/badge/GitHub-srikantoraj-black?style=for-the-badge\&logo=github)](https://github.com/srikantoraj)
+[![Email](https://img.shields.io/badge/Email-contact%40srikanto.dev-informational?style=for-the-badge\&logo=gmail)](mailto:contact@srikanto.dev)
+
+---
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer (4+ years)** building **integration-heavy SaaS tools** and **workflow automations** using **JavaScript/TypeScript, APIs, and CI/CD**.  
-I enjoy shipping reliable, secure systems — from **auth flows** and **webhook-style event handling** to **resilient error patterns** and maintainable platform integrations.
+I’m a **Software Developer with 4+ years of experience** building secure backend systems, scalable web applications, database-driven platforms, REST APIs, and business-focused digital products.
 
-I also work with **agentic AI concepts (Agents, RAG)** and **MCP-style tool automation patterns**, focusing on grounded outputs, safe tool execution, and predictable integrations.
+I work across **Next.js, React, React Native, Python, Django, Django REST Framework, FastAPI, PostgreSQL, MySQL, MongoDB, Docker, and GitHub workflows**. My work focuses on clean architecture, secure development, backend optimisation, third-party API integration, and reliable product delivery.
 
-- 🌱 Focus: Product engineering, integrations, and automation
-- 🥅 2025 Goal: Contribute more to Open Source projects
-- 📍 Dhaka, Bangladesh (Remote / Global)
+I also work with **AI agents, LangChain, LangGraph, RAG workflows, automation systems, and AI API integrations**, especially for building practical business tools and intelligent software solutions.
+
+* 🚀 Focus: Full-stack development, travel tech, fintech, AI tools, and automation
+* 🧠 Building: AI agents, SaaS tools, backend systems, and scalable platforms
+* 📍 Location: Dhaka, Bangladesh
+* 🌍 Available for: Remote, hybrid, and global opportunities
 
 ---
 
 ## 📌 Quick Links
 
-- 🌐 Personal: **https://srikanto.dev**
-- 🧠 Company: **https://wisebrain.io**
-- 🧩 GitHub: **https://github.com/srikantoraj**
-- 💼 LinkedIn: **https://linkedin.com/in/srikanto**
+* 🌐 Portfolio: **https://srikanto.dev**
+* 🧠 Company: **https://wisebrain.io**
+* 🧩 GitHub: **https://github.com/srikantoraj**
+* 💼 LinkedIn: **https://linkedin.com/in/srikanto**
+* 📧 Email: **[contact@srikanto.dev](mailto:contact@srikanto.dev)**
 
 ---
 
 ## 🧾 Professional Summary
 
-**Software Engineer** with 4+ years building integration-heavy SaaS tools and workflow automations using **JavaScript/TypeScript**, **APIs** and **CI/CD**. Strong in designing reliable platform integrations (auth flows, webhook-style event handling, resilient error patterns) and shipping secure, maintainable systems in fast-moving environments. Practical strength in agentic AI concepts (Agents, RAG) and MCP server patterns for tool-based automation. Experienced partnering with Customer Success, security/compliance, and product teams to deliver customer-first solutions.
+**Software Developer** with 4+ years of experience building secure backend systems, scalable web applications, database-driven platforms, REST APIs, and production-focused digital products. Strong experience in **Next.js, React, React Native, Python, Django, Django REST Framework, FastAPI, PostgreSQL, Docker, GitHub, REST API integration, automation, AI agents, and cloud-ready application development**.
+
+Experienced in building solutions for **fintech, ecommerce, travel technology, CRM-style workflows, AI-powered platforms, admin dashboards, KYC systems, and business automation tools**.
 
 ---
 
 ## 💼 Work Experience
 
-### **Golden Exchange Inc.** — Digital Payment & Finance (gxchange.net)  
-**Frontend Developer** | Oct 2022 – Present | Hobart, Australia (Remote)
+### **Goldenx Australia Pty Ltd.** — Digital Payments & Finance Platform
 
-- Led end-to-end frontend development of the public website (**gxchange.net**): responsive, consistent UI showcasing brand and product features.
-- Built **React dashboards** and monitoring tools, improving user flows and reducing UI-related support tickets by ~25%.
-- Designed and developed internal self-service tools for operations/support to manage wallets, trades, and KYC workflows, reducing manual handling and workflow errors.
-- Delivered client–server **REST API integrations**, handling JSON payloads securely and reliably.
-- Implemented a **RAG-enabled chat UI** with streaming responses, structured answers, source citations, and low-confidence/no-result handling.
-- Collaborated with designers and stakeholders to translate **Figma** designs into intuitive, accessible, performant interfaces.
-- Worked in a DevOps-style team using **Docker** and **Linux** to standardize environments, reducing environment-related issues by ~30%.
-- Set up and maintained **GitHub Actions CI/CD**, promoting strong engineering practices (code reviews, automated tests, docs) with iterative Agile releases.
-- Supported deployments and production operations using **AWS/Azure** with Kubernetes fundamentals, monitoring/logging, and release best practices.
+**Software Engineer** | October 2022 – Present | Remote, Australia
+
+* Built secure backend services for a digital wallet and trading platform using **Python, Django, Django REST Framework, PostgreSQL, Redis, Celery, Docker, and REST APIs**.
+* Built frontend workflows for the digital wallet and trading platform using **Next.js, JavaScript, and secure API integration**, including wallet management, trading actions, and internal dashboard modules.
+* Created the mobile app using **React Native**, connecting onboarding, KYC submission, wallet access, and account management screens with backend APIs.
+* Developed end-to-end **KYC onboarding workflows**, including customer identity submission, document upload, verification checks, and review stages.
+* Built **OCR-based document reading workflows** for passports, NID cards, and ID cards to support identity verification and compliance review.
+* Used **OpenCV and Google MediaPipe** for document image preprocessing, face detection, selfie-to-ID verification support, image validation, resizing, and compression.
+* Developed wallet and trading backend logic for account creation, balance handling, deposits, withdrawals, transaction records, and spot trade actions.
+* Used **Celery and Redis** for background tasks such as notifications, verification processing, document handling, and trade-related jobs.
 
 ---
 
-## 🎓 Education
+### **Upfrica** — Ecommerce Platform
 
-**B.Sc. in Information and Communication Engineering**  
-Rajshahi University, Bangladesh | **2021** | **88%**
+**Full Stack Python Developer** | January 2020 – December 2021 | Remote, United Kingdom
+
+* Developed ecommerce platform features using **Python, Django, Django REST Framework, PostgreSQL, REST APIs, Docker, and Git**.
+* Built frontend features using **React, JavaScript, HTML5, CSS3, responsive design, and API integration** for product listing pages, product filters, seller dashboards, user action screens, order pages, and platform management views.
+* Developed backend APIs for **product listings, search and filtering, seller operations, user actions, order workflows, product media handling, and admin platform features**.
+* Worked with **PostgreSQL** for data modelling, schema updates, query optimisation, indexing, and reliable storage of user, product, order, and platform data.
+* Built **Python automation scripts** for image compression, resizing, renaming, and bulk product media processing to improve platform performance and reduce manual work.
+* Used **Docker, Git, and GitHub** to manage development environments, code changes, and safer backend delivery.
 
 ---
 
 ## 🚀 Projects
 
-### **wisebrain.io** — AI Software Solutions | Software Engineer  
-- Built UI for agent-style multi-step tool workflows with intermediate states and user confirmations.
-- Implemented grounded RAG output presentation with low-confidence/no-result fallbacks.
-- Designed integration-ready API patterns aligned with tool connectivity concepts (tool selection, permissions, predictable output).
+### **Go Girls** — Travel Technology Platform
 
-### **upfrica.com** — Ecommerce Platform | Software Developer  
-- Developed ecommerce frontend features with strong UI/UX and user flows; integrated REST APIs and managed code via GitHub.
-- Integrated AI-driven product recommendations via services/APIs for personalized user journeys.
-- Built an autonomous newsletter workflow automating content selection and scheduling for retention and sales campaigns.
+**Full-Stack Travel Platform Development**
 
-### **gogirlsbd.com** — Travel Technology Platform | Frontend Developer  
-- Implemented responsive, accessible frontend screens from Figma with reliable API integration using JavaScript and Tailwind/CSS.
+* Built full-stack platform features for a travel technology product using **Next.js, React, Django, Django REST Framework, PostgreSQL, and database-driven workflows**.
+* Developed frontend pages for travel services, package listings, destination content, user actions, lead forms, booking-related flows, and business-focused landing sections.
+* Converted UI requirements into clean, responsive interfaces using **Next.js, React, Tailwind CSS, reusable components, and mobile-friendly design**.
+* Built and integrated backend APIs using **Django REST Framework and PostgreSQL** for dynamic travel content, package management, customer enquiries, user actions, admin workflows, and service management features.
+* Worked on SEO-friendly page structure, clean routing, fast-loading layouts, and performance-focused frontend implementation.
+* Designed the platform structure to support future travel booking features, payment gateway integration, flight/hotel API integration, admin panels, and business automation workflows.
+
+---
+
+### **Wise Brain** — AI Software Solutions Platform
+
+**AI Chatbot Platform and Answer Ranking Engine**
+
+* Designed and built a full-stack AI chatbot platform using **Python, FastAPI, React, REST APIs, and AI API integrations**.
+* Built chatbot workflows with structured prompts, intermediate actions, confirmations, tool execution, and grounded answer presentation.
+* Implemented backend logic for prompt orchestration, API integrations, data processing, and maintainable AI workflow handling.
+* Worked with **LangChain, LangGraph, AI agents, RAG concepts, and automation workflows** for intelligent business solutions.
 
 ---
 
 ## 🧠 Skills
 
-**Software Engineering & Delivery**
-- SDLC, Agile, engineering practices, continuous improvement, code reviews, documentation, high-quality releases
+**Frontend Development**
+Next.js, React.js, React Native, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, responsive design, reusable components, UI development, Figma to code implementation
 
-**Frontend**
-- React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, responsive design, a11y, performance optimization
+**Backend Development**
+Python, Django, Django REST Framework, FastAPI, REST API development, third-party API integration, backend services, input validation, error handling, scalable web application development
 
-**UI/UX Collaboration**
-- UI/UX, user flows, Figma collaboration, design-to-production implementation, usability-focused development
+**Databases & Data Management**
+PostgreSQL, MySQL, MongoDB, database design, schema design, indexing, query optimisation, data modelling, transaction handling
 
-**Integrations & Web Platforms**
-- API integration, REST, JSON, secure forms, input validation, SaaS-style systems, internal tooling platforms
+**AI, Automation & Agentic Systems**
+LangChain, LangGraph, AI agents, RAG, AI API integrations, chatbot workflows, prompt orchestration, Python automation, Celery, Redis
 
-**Backend & Data**
-- Python, Django, Django REST Framework, auth/authorization, PostgreSQL, schema design, indexing, query optimization
+**Travel, Ecommerce & Business Platforms**
+Travel technology platforms, booking-related workflows, package management, ecommerce systems, seller dashboards, admin panels, CRM workflows, ERP-style workflows
 
-**AI Integrations**
-- Agents, Agentic AI, RAG, tool orchestration, evaluation/guardrails, MCP-style patterns (conceptual)
+**Security & Authentication**
+OAuth2, JWT, SSO, role-based access control, permission checks, secure session handling, protected API access, secure software development
 
-**DevOps & CI/CD**
-- Git, GitHub, GitHub Actions, Docker, Linux, Kubernetes fundamentals
+**DevOps, Cloud & Tools**
+Git, GitHub, GitHub Actions, Docker, Linux, AWS, Vercel, CI/CD pipelines, environment configuration, deployment support
 
-**Cloud**
-- AWS, Azure, GCP exposure, containerized deployments, monitoring/logging basics, production support
-
-**Testing & Security**
-- Unit/integration/API testing, regression testing, logging/monitoring for RCA, secure coding practices, least privilege
-
-**Collaboration**
-- Cross-functional teamwork, Customer Success partnership, ownership mindset, clear communication, trade-off articulation
+**Professional Skills**
+Communication, attention to detail, problem solving, self-driven working style, stakeholder collaboration, deadline management, product thinking
 
 ---
 
-## 🤝 Connect with me
+## 🎓 Education
+
+**Bachelor of Science in Information and Communication Engineering**
+Rajshahi University, Bangladesh | **2021** | **CGPA: 3.52/4.00**
+
+---
+
+## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/srikanto/" target="_blank">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://srikanto.dev" target="_blank">
-  <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />
+  <img align="left" alt="Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />
 </a>
+
 <a href="mailto:contact@srikanto.dev" target="_blank">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br />
@@ -127,9 +153,11 @@ Rajshahi University, Bangladesh | **2021** | **88%**
 
 ## 📫 Contact
 
-**Srikanto Rajbongshi**  
-📧 contact@srikanto.dev  
-📞 +8801627789564  
-🌐 https://srikanto.dev  
-🧠 https://wisebrain.io  
+**Srikanto Rajbongshi**
+📧 [contact@srikanto.dev](mailto:contact@srikanto.dev)
+📞 +8801627789564
+🌐 https://srikanto.dev
+🧠 https://wisebrain.io
+🧩 https://github.com/srikantoraj
+💼 https://linkedin.com/in/srikanto
 📍 Dhaka, Bangladesh
